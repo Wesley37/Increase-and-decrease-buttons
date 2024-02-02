@@ -3,14 +3,14 @@ let shopItemsData = [
         id: "jfhgbvnscs",
         name: "Dualsense",
         price: 60,
-        desc: "Sony DualSense PS5 Wireless Controller - White.",
+        desc: "PS5 Wireless Controller - White.",
         img: "images/img-1.jpg",
     },
     {
         id: "ioytrhndcv",
         name: "PS5",
         price: 450,
-        desc: "PlayStation 5 Console.",
+        desc: "Sony PlayStation 5 Console.",
         img: "images/img-2.jpg",
     },
     {

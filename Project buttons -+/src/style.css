@@ -291,21 +291,7 @@ p {
   width: 40%;
   letter-spacing: 0.11rem;
   outline: none;
-  margin-left: 2.5rem;
-}
-
-.button-cancel {
-  background: linear-gradient(135deg, #dd5a5a 0%, #ff0000 100%);
-  padding: 15px;
-  border: none;
-  border-radius: 50px;
-  color: white;
-  font-weight: 400;
-  font-size: 1.2rem;
-  margin-top: 10px;
-  width: 40%;
-  letter-spacing: 0.11rem;
-  outline: none;
+  margin-left: 8.2rem;
 }
 
 .button-checkout:hover {
@@ -313,10 +299,15 @@ p {
   box-shadow: 3px 3px 6px #38373785;
 }
 
-.button-cancel:hover{
-  transform: scale(1.05) translateY(-3px);
-  box-shadow: 3px 3px 6px #38373785;
+.fa-close {
+  color: red;
+  margin-left: 30rem;
+  margin-top: -8px;
 }
+
+.fa-close:hover {
+  transform: scale(1.05) translateY(-3px);
+  }
 
 @media only screen and (max-width: 1000px) {
   .card {
